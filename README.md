@@ -2,7 +2,7 @@
 
 **Room:** [SQLMap: The Basics — TryHackMe](https://tryhackme.com/room/sqlmapthebasics)  
 **Status:** ✅ Completed  
-**Date:** *06 June 2025* 
+**Date:** *07 June 2025* 
 
 ### 🎯 Objective
 Understand SQL injection and learn how to exploit it using the SQLMap tool. This includes identifying SQLi vulnerabilities, extracting database contents, and automating the exploitation process through command-line techniques.
